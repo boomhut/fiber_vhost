@@ -1,7 +1,7 @@
 package fibervhost
 
 import (
-	"github.com/gofiber/fiber/v2"
+	"github.com/boomhut/fiber/v2"
 )
 
 type Config struct {

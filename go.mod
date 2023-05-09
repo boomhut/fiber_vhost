@@ -1,5 +1,5 @@
-module github.com/K0enM/fiber_vhost
+module github.com/boomhut/fiber_vhost
 
 go 1.15
 
-require github.com/gofiber/fiber/v2 v2.2.0
+require github.com/boomhut/fiber/v2 v2.0.0-20230405225543-a60c60c5e60c

@@ -1,9 +1,10 @@
 package fibervhost
 
 import (
-	"github.com/gofiber/fiber/v2"
 	"net/http/httptest"
 	"testing"
+
+	"github.com/boomhut/fiber/v2"
 )
 
 // go test -run Test_Vhost_Match
